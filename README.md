@@ -1,2 +1,2 @@
 # Algorithms
-# BFS || Dijkstra & Belman-Ford || Longest Common Sequence || Dynamic Programming
+# Breadth First Search (BFS)|| Dijkstra & Bellman-Ford || Longest Common Sequence (LCS) ||
